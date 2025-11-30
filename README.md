@@ -1,8 +1,7 @@
 ﻿# Risk_prediction
 
-Working model: https://riskprediction-kdqyvba8b9hcd2yygh9qjd.streamlit.app/ 
 Here is a **clean, professional, and deployment-ready README.md** for your Failure Risk Prediction Streamlit app.
-You can copy-paste this directly into your GitHub repository.
+https://riskprediction-kdqyvba8b9hcd2yygh9qjd.streamlit.app/
 
 ---
 
@@ -191,3 +190,4 @@ If you want, I can:
 📌 create CI/CD workflow for auto deploy
 
 Just tell me!
+
